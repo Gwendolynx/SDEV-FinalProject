@@ -1,0 +1,1 @@
+This program is meant to serve as a basic drug search tool for users. It will prompt the user for a drug name, brand or generic, and return basic information such as Generic name, common Brand name, and drug usage/classification.
