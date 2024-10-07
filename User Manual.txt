@@ -1,0 +1,11 @@
+User's Manual
+
+The purpose of this program is to provide the user with quick, simple information on the drug they're researching.
+This program utilizes 100 of the top most common drugs and is able to search for both name brand and generic name.
+The user is greeted by the application's main window and given a brief instruction on how to proceed. When the 
+'Open Drug Input' button is pressed, the search window will open and prompt the user for the drug name. Whether
+name brand or generic is entered, information on that drug will be displayed including Generic name, common Brand name,
+and a brief drug usage/classification.
+
+The user can then enter another drug or go back to the main window by clicking the 'Restart' button. From there, there is
+a close button on the main window to end the program entirely.

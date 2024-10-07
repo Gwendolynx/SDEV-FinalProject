@@ -1,0 +1,10 @@
+TEST DATA:
+
+Input			Expected Output
+-------------------------------------------------------------------------------
+Plavix			Clopidogrel	Plavix		Blood Clot Prevention
+Lyrica			Pregabalin	Lyrica		Diabetic Nerve Pain
+Lipitor			Atorvastatin	Lipitor		High Cholesterol
+Metformin		Metformin	Glucophage	Glycemic Control
+Gabapentin		Gabapentin	Neurontin	Seizures; Nerve Pain
+Losartan		Losartan	Cozaar		High Blood Pressure
